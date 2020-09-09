@@ -1,107 +1,113 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
+    "name": "Jose MARIN",
+    "occupation": "Front-end developer, changing paradigms.",
+    "description": "with more than 3 years as a web developer, and more than 8 years as a business idenity designer",
     "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "bio": "My name is Jose, self-taught in different technologies, my programming bases were acquired when I was a student of Industrial Engineering, I try to design with code",
+    "contactmessage": "Please contact me for more details.",
+    "email": "contact@mar1n.coms",
+    "phone": "+33 6 23 43 04 01",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "anywhere",
+      "city": "Tours",
+      "state": "FR",
+      "zip": "37"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "http://www.mar1n.com",
+    "resumedownload": "https://fr.linkedin.com/in/josermarinr",
     "social": [
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://fr.linkedin.com/in/josermarinr",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "http://github.com/josermarinr",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "I am able to use python to create a linear regression, a random forest model, or any supervised learning model, also I have three years of experience in frontend with angular, react and vue, and backend with laravel and node",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "Polytechnic University Institute Santiago Mariño",
+        "degree": "industrial engineering",
+        "graduated": "Sep 2016",
+        "description": "thesis in human resources & internships in ergonomics"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "company": "Aduivame",
+        "title": "Web Developer",
+        "years": "April - May 2020",
+        "description": "site design and creation based on angular, with backend in firebase"
       },
       {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "Sgimca",
+        "title": "Front-end Developer",
+        "years": "June - July 2020",
+        "description": "site design and construction based on angular, with backend in firebase"
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "100%"
+        "name": "Angular",
+        "level": "90%"
       },
       {
-        "name": "CSS",
-        "level": "95%"
+        "name": "React",
+        "level": "85%"
       },
       {
-        "name": "Git",
-        "level": "60%"
+        "name": "Vue",
+        "level": "75%"
       },
       {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
+        "name": "Node",
+        "level": "80%"
       },
       {
-        "name": "HTML5",
+        "name": "Laravel",
         "level": "80%"
       },
       {
         "name": "MongoDB",
         "level": "80%"
+      },
+      {
+        "name": "MariaDB",
+        "level": "80%"
+      },
+      {
+        "name": "Firebase",
+        "level": "80%"
+      },
+      {
+        "name": "Sci-kit Learn",
+        "level": "50%"
+      },
+      {
+        "name": "numpy",
+        "level": "60%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "title": "Google Clone",
+        "category": "Google Clone built with Firebase, React, Redux, MaterialUI",
         "image": "whatsapp-mern.jpeg",
         "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
+        "title": "MERN Stack whatsapp Clone",
+        "category": "whatsapp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
         "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
       },
       {
@@ -112,7 +118,7 @@
       },
       {
         "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
+        "category": "Airbnb Clone built with ReactJS",
         "image": "airbnb-clone.jpeg",
         "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
       },
